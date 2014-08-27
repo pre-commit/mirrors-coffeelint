@@ -4,6 +4,7 @@ coffeelint mirror
 Mirror of coffeelint package for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
+
 For coffeelint: see https://github.com/clutchski/coffeelint
 
 
