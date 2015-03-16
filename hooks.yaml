@@ -2,4 +2,4 @@
     name: coffeelint
     entry: coffeelint
     language: node
-    files: \.js$
+    files: \.(js|coffee)$
