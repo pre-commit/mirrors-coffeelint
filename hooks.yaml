@@ -3,3 +3,8 @@
     entry: coffeelint
     language: node
     files: \.(js|coffee)$
+    args: []
+
+    # Use additional_dependencies to install the actual node package
+    additional_dependencies: ['coffeelint@1.5.7']
+    minimum_pre_commit_version: 0.7.0
