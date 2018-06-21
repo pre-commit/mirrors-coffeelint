@@ -13,6 +13,6 @@ For coffeelint: see https://github.com/clutchski/coffeelint
 Add this to your `.pre-commit-config.yaml`:
 
     -   repo: https://github.com/pre-commit/mirrors-coffeelint
-        sha: ''  # Use the sha you want to point at
+        rev: ''  # Use the sha / tag you want to point at
         hooks:
         -   id: coffeelint
