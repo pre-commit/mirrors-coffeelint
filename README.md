@@ -1,3 +1,9 @@
+# DEPRECATED
+
+the upstream repo was archived
+
+___
+
 coffeelint mirror
 ================
 
